@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.3](https://github.com/tzjames/contentful-marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.3.2...thrillworks-flex-fields-app-v1.3.3) (2025-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/flexfields ([#6530](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6530)) ([7df6c54](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/7df6c54c3a52c3dc6c41b534f447a643bd48ae03))
+* **deps:** bump js-yaml from 4.1.0 to 4.1.1 in /apps/flexfields ([#7344](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7344)) ([5b83c8f](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/5b83c8f08458664d23811b4301972c76fcbd6180))
+* **deps:** bump mdast-util-to-hast from 13.2.0 to 13.2.1 in /apps/flexfields ([#7414](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7414)) ([5b10b05](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/5b10b05ee73f538c4a2109fcffd83d1fe66337ce))
+* **deps:** bump the production-dependencies group in /apps/flexfields with 5 updates ([#7003](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7003)) ([d427148](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/d427148811000b47989154fffd0401de3a1ed74b))
+* **deps:** bump validator from 13.15.15 to 13.15.20 in /apps/flexfields ([#6950](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6950)) ([b9c3c6d](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/b9c3c6d1445fc08ecb58aea3ad2cf9fcf9125eed))
+* **deps:** bump validator from 13.15.20 to 13.15.23 in /apps/flexfields ([#7420](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7420)) ([9b14db3](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/9b14db3801dc3b1623c0c53c453a9ec1b937af38))
+* **deps:** bump vite from 5.4.19 to 5.4.20 in /apps/flexfields ([#6434](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6434)) ([b9baeb3](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/b9baeb3dc448982e8540ed88ccb507920d2181c4))
+* **deps:** bump vite in /apps/flexfields ([#6920](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6920)) ([901a818](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/901a818ace46075728ebd8838b0f8228a2d3029b))
+
 ## [1.3.2](https://github.com/contentful/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.3.1...thrillworks-flex-fields-app-v1.3.2) (2025-10-16)
 
 
