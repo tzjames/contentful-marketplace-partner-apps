@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.26](https://github.com/tzjames/contentful-marketplace-partner-apps/compare/intershop-connector-v1.0.25...intershop-connector-v1.0.26) (2025-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/intershop ([#6521](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6521)) ([3605631](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/36056311e73e7eb6995c5d11d6b2c183b2c651be))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#7223](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7223)) ([451678b](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/451678b9210cbb9948c904a1a5158ec6a5d291f0))
+* **deps:** bump the production-dependencies group in /apps/intershop with 4 updates ([#6975](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6975)) ([1ee8348](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/1ee8348ef31e498cfd20d6d76f2f2f0cf25ab7f7))
+* Flat Category Selection Implementation & Update new api specs [] ([#7520](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7520)) ([e603ef7](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/e603ef7a944f8d49f3145ec14642e8bab530fe9e))
+
 ## [1.0.25](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.24...intershop-connector-v1.0.25) (2025-12-16)
 
 
