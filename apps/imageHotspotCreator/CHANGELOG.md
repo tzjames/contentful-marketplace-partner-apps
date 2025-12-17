@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.29](https://github.com/tzjames/contentful-marketplace-partner-apps/compare/image-hotspot-creator-v1.0.28...image-hotspot-creator-v1.0.29) (2025-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/imageHotspotCreator ([#6524](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6524)) ([e9839c7](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/e9839c7749ab903b87ff0a40c5a392ca194b4370))
+* **deps:** bump contentful from 10.15.1 to 11.8.6 in /apps/imageHotspotCreator [] ([#6772](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6772)) ([246888c](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/246888c94e0059f57fb1512f3fb76964cf199d37))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 2 updates ([#6834](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6834)) ([ec2fb43](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/ec2fb43656cdbfd07eb80cefe93cb8ad005051b1))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 2 updates ([#7165](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7165)) ([e6f3bda](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/e6f3bda5df190e8a703606ee410d898929cd8143))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 3 updates ([#6973](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6973)) ([0feb38c](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/0feb38c94a167ca80cd0279ee70ed7739762c7cb))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 3 updates ([#7232](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7232)) ([520c47f](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/520c47f4c99b233e16ac3326c19ae58b19d06a62))
+
 ## [1.0.28](https://github.com/contentful/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.27...image-hotspot-creator-v1.0.28) (2025-10-16)
 
 
