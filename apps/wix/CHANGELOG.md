@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.25](https://github.com/tzjames/contentful-marketplace-partner-apps/compare/wix-contentful-app-v1.0.24...wix-contentful-app-v1.0.25) (2025-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.11.0 to 1.12.0 in /apps/wix ([#6508](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/6508)) ([f35256b](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/f35256bcad9818b779425385b7a4eba410c5f893))
+* **deps:** bump the production-dependencies group in /apps/wix with 6 updates ([#7007](https://github.com/tzjames/contentful-marketplace-partner-apps/issues/7007)) ([39e3c6e](https://github.com/tzjames/contentful-marketplace-partner-apps/commit/39e3c6e181126063bd18869f0e39ad02fa250658))
+
 ## [1.0.24](https://github.com/contentful/marketplace-partner-apps/compare/wix-contentful-app-v1.0.23...wix-contentful-app-v1.0.24) (2025-12-03)
 
 
